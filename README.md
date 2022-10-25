@@ -1,6 +1,6 @@
 ### Oi Oi! Eu sou o Leonardo!
 
-- 🖤 Estou no primeiro semestre de Análise e desenvolvimento de sistemas.
+- 🖤 Estou cursando Análise e desenvolvimento de sistemas.
 - 🖤 Tenho meta de ser programador. 
 - 🖤 Não tenho experiência com programação ainda, mas estou estudando cada dia mais
 

@@ -2,7 +2,7 @@
 
 - 🖤 Estou cursando Análise e desenvolvimento de sistemas.
 - 🖤 Tenho meta de ser programador. 
-- 🖤 Não tenho experiência com programação ainda, mas estou estudando cada dia mais
+- 🖤 Estou cada vez mais focando em aprender mais do que já sei.
 
 ##
 

@@ -1,18 +1,16 @@
-### Oi Oi! Eu sou o Leonardo!
+### Aoba! Eu sou o Leonardo!
 
-- 🖤 Estou cursando Análise e desenvolvimento de sistemas.
-- 🖤 Tenho meta de ser programador. 
-- 🖤 Estou cada vez mais focando em aprender mais do que já sei.
-
-##
-
-<div>
-  <a href="https://github.com/KinoDesu">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KinoDesu&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" align=" right" src="https://i.imgur.com/dEZZwVm.gif"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KinoDesu&layout=compact&langs_count=7&theme=github_dark"/>
-  
-</div>
+- 📌 Formado em Análise e desenvolvimento de sistemas no SENAC.
+- 📌 Pós-graduando em Arquitetura de Software na FIAP.
+- 📌 Programador backend
+	- JAVA
+	- SPRING BOOT
+	- SPRING BATCH
+	- APIs
+	- Bancos SQL e NoSQL
+	- KAFKA
+	- REDIS. 
+- 📌 Estou cada vez mais focando em aprender mais do que já sei.
 
 ##
 

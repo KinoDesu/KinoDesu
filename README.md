@@ -9,7 +9,7 @@
 	- APIs
 	- Bancos SQL e NoSQL
 	- KAFKA
-	- REDIS. 
+	- REDIS
 - 📌 Estou cada vez mais focando em aprender mais do que já sei.
 
 ##
